@@ -1,0 +1,26 @@
+.SuccessPage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 500px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.ImageContainer {
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-self: center;
+}
+
+.SuccessPage h3 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+  color: #3d4047;
+}

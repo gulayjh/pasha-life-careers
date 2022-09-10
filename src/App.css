@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.LayoutContainer {
+  display: flex;
+  align-items: baseline;
+  padding-bottom: 50px;
+}
+
+.LayoutContainer> div:nth-child(1) {
+  flex-basis: 10%;
+}
+.LayoutContainer> div:nth-child(2) {
+  flex-basis: 90%;
+}

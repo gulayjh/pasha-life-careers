@@ -1,0 +1,10 @@
+.MainModalChangeStatus {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 350px;
+  background: #ffffff;
+  border-radius: 10px;
+}
